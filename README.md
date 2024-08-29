@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2F{env.}.json%3Fcolor%3Dpink"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2FBackend_Java_Project.json%3Fcolor%3Dpink"/>
 
 
 
@@ -22,7 +22,7 @@
 </a>
 <br>
 
-<img src="https://img.shields.io/github/license/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/languages/top/waseemofficial/{env.}?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/{env.}.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/{env.}.svg?style=flat" />
+<img src="https://img.shields.io/github/license/waseemofficial/Backend_Java_Project.svg?style=flat"/> <img src="https://img.shields.io/github/languages/top/waseemofficial/Backend_Java_Project?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/Backend_Java_Project.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/Backend_Java_Project.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/Backend_Java_Project.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/Backend_Java_Project.svg?style=flat" />
 </div>
 
 <div align="center"> 
@@ -31,11 +31,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=jdk)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/-markdown-000?&logo=markdown)
@@ -46,7 +42,6 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Cypress](https://img.shields.io/badge/-Postman-000?&logo=Postman)
@@ -61,10 +56,10 @@
 
 <div align="left">
  
-# Title
+# Backend Java Project
 
-==Array==
+
 </div>
-==Array==
 
+## Spring Boot, Spring Security, JWT
 
